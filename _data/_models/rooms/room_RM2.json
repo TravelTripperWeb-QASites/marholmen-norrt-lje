@@ -1,0 +1,72 @@
+{
+  "name_localized": {
+    "en": "Single Room",
+    "es": "Single Room"
+  },
+  "short_description_localized": {
+    "en": "Single Room",
+    "es": "Single Room"
+  },
+  "description_localized": {
+    "en": "<strong>1 Twin Bed</strong><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Twin Bed</strong><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "Image 1",
+      "description": "",
+      "alt": "Image 1",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68454_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "RM2",
+  "order": 2
+}

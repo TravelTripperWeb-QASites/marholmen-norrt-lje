@@ -1,0 +1,96 @@
+{
+  "name_localized": {
+    "en": "Double Room",
+    "es": "Double Room"
+  },
+  "short_description_localized": {
+    "en": "Double Room",
+    "es": "Double Room"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed</strong><br />Overlooking the lake<br /><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed</strong><br />Overlooking the lake<br /><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "Image 1",
+      "description": "",
+      "alt": "Image 1",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68449_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 2",
+      "description": "",
+      "alt": "Image 2",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68450_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 3",
+      "description": "",
+      "alt": "Image 3",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68451_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 4",
+      "description": "",
+      "alt": "Image 4",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68452_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 5",
+      "description": "",
+      "alt": "Image 5",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68453_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "RM1",
+  "order": 1
+}

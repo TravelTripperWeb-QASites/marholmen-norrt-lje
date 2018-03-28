@@ -1,0 +1,90 @@
+{
+  "name_localized": {
+    "en": "Standard Double Room, Garden View",
+    "es": "Standard Double Room, Garden View"
+  },
+  "short_description_localized": {
+    "en": "Standard Double Room, Garden View",
+    "es": "Standard Double Room, Garden View"
+  },
+  "description_localized": {
+    "en": "<strong>2 Twin Beds</strong><br />258-sq-foot (24-sq-meter) room with garden views<br /><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>2 Twin Beds</strong><br />258-sq-foot (24-sq-meter) room with garden views<br /><br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Rollaway/extra beds and cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "Image 1",
+      "description": "",
+      "alt": "Image 1",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68445_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 2",
+      "description": "",
+      "alt": "Image 2",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68446_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 3",
+      "description": "",
+      "alt": "Image 3",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68447_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 4",
+      "description": "",
+      "alt": "Image 4",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1267/68448_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "RM3",
+  "order": 3
+}
