@@ -15,3 +15,4 @@ address:
 _hotel_id: MAR698
 _portal_id: required-but-empty
 _root_path: http://rtexpress-qa.ttaws.com/rt/.
+_ttweb_plugins_version: "v2"
